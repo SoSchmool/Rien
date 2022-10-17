@@ -1,4 +1,5 @@
 package histoire.personnages;
+import histoire.lieu.*;
 
 public class Chef {
 	private String nom;
